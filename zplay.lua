@@ -86,3 +86,4 @@ end
 
 app:run { arg[0], ... }
 
+-- vim:expandtab:softtabstop=3:shiftwidth=3
